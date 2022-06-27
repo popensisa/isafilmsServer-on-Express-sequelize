@@ -1,0 +1,30 @@
+{
+  "local": {
+    "username": "postgres",
+    "password": "saske1300",
+    "database": "isafilms",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "development": {
+    "username": "postgres",
+    "password": "saske1300",
+    "database": "isafilms",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "saske1300",
+    "database": "isafilms",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "saske1300",
+    "database": "isafilms",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
